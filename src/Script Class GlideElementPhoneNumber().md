@@ -1,4 +1,4 @@
-# Script Class GlideElementPhoneNumber
+# Script Class GlideElementPhoneNumber()
 ## Description
 GlideElementPhoneNumber is a ServiceNow server-side and global script class used to handle, parse, and validate E.164 and legacy phone number fields. [1], [2] 
 
