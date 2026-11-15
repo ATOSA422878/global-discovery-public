@@ -1,6 +1,6 @@
 # Script Class GlideElementPhoneNumber()
 ## Description
-GlideElementPhoneNumber is a ServiceNow server-side and global script class used to handle, parse, and validate E.164 and legacy phone number fields. [1], [2] 
+GlideElementPhoneNumber is a ServiceNow server-side and global script class used to handle, parse, and validate E.164 and legacy phone number fields.
 
 ## Purpose
 Allows scripts to interact with phone number fields, extract country/territory details, and validate formatting against system phone territory tables (sys_phone_territory and sys_phone_validate).
@@ -24,7 +24,10 @@ gs.info(isValidPhoneNumber);
 gs.info(objPhoneNumber.getTerritory());
 ```
 
+## Attribution
+Assistance of Google Gemini
+
 ## Notes
-- [1] [Getting country from Phone Number (E164) field in a script?](https://www.servicenow.com/community/developer-forum/getting-country-from-phone-number-e164-field-in-a-script/m-p/1575325)
-- [2] [Setting up phone number validation on Now Platform](https://www.servicenow.com/community/hrsd-articles/setting-up-phone-number-validation-on-now-platform-phone-number/ta-p/2444496)
-- [3] [E.164 phone number field configuration](https://github.com/ATOSA422878/global-discovery-public/new/main/src)
+- [1] [E.164 phone number field configuration](https://www.servicenow.com/docs/r/yokohama/platform-administration/r_ConfigureE.164PhoneNumberFields.html) | ServiceNow Documentation
+- [2] [Getting country from Phone Number (E164) field in a script?](https://www.servicenow.com/community/developer-forum/getting-country-from-phone-number-e164-field-in-a-script/m-p/1575325) | ServiceNow Community
+- [3] [Setting up phone number validation on Now Platform](https://www.servicenow.com/community/hrsd-articles/setting-up-phone-number-validation-on-now-platform-phone-number/ta-p/2444496) | ServiceNow Community
