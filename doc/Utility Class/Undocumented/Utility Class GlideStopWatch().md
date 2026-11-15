@@ -1,4 +1,4 @@
-# Script Class GlideStopWatch()
+# Utility Class GlideStopWatch()
 
 ## Example
 ```javascript
