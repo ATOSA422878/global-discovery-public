@@ -1,4 +1,4 @@
-# Script Class GlideScheduleDateTime()
+# Utility Class GlideScheduleDateTime()
 
 ## Example
 ```javascript
