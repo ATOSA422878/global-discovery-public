@@ -1,4 +1,4 @@
-# Script Class GlideTinyURL()
+# Utility Class GlideTinyURL()
 
 ## Table Name
 Tiny URL [sys_tiny_url]
