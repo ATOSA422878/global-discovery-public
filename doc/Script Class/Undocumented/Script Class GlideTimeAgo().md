@@ -1,4 +1,4 @@
-## Script Class GlideTimeAgo()
+# Script Class GlideTimeAgo()
 
 ## Example
 ```javascript
